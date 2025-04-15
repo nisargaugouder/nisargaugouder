@@ -11,8 +11,7 @@ I'm **D U Nisarga**, currently an intern at **X-workZ**, where I’m learning an
 
 ## 🌱 What I'm working on
 
-- Writing full-stack Java apps
-- Exploring real-world use cases in development
+- Writing full-stack Java programs
 - Practicing and improving core concepts in software development
 - Staying consistent with GitHub commits and hands-on practice
 
