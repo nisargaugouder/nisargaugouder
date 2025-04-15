@@ -35,7 +35,6 @@ I'm **D U Nisarga**, currently an intern at **X-workZ**, where I’m learning an
 ## 📫 Contact Me
 
 - 📧 Email: **dunisargau2003@gmail.com**  
-- 📱 Phone: **6363456589**  
 - 🔗 [LinkedIn](https://linkedin.com/in/d-u-nisarga-8524aa2aa)
 
 ---
