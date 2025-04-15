@@ -5,14 +5,14 @@
 
 ---
 
-I'm **D U Nisarga**, currently an intern at **X-workZ**, where I’m working with **Java** to develop clean, efficient applications. I enjoy solving problems, writing readable code, and creating reliable solutions.
+I'm **D U Nisarga**, currently an intern at **X-workZ**, where I’m learning **Java** to develop clean, efficient applications. I enjoy solving problems, writing readable code, and creating reliable solutions.
 
 ---
 
 ---
 
 ## 🌱 What I'm working on
-- Java (Core & Advanced)  
+- Core Java   
 - Object-Oriented Programming  
 - Practicing and improving core concepts in software development
 - Staying consistent with GitHub commits and hands-on practice
