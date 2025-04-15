@@ -1,6 +1,5 @@
 # Hi, I'm D U Nisarga 👋
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nisargaugouder&theme=tokyonight&hide_border=true)
 ![Profile Views](https://komarev.com/ghpvc/?username=nisargaugouder&color=blueviolet)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisargaugouder&layout=compact&theme=tokyonight)
 
